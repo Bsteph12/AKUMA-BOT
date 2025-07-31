@@ -1,6 +1,6 @@
 // config.js
 module.exports = {
-  SESSION_ID: "YERTGTrR#XnGbECG0fL8vIqlx6QgdAfdPG_ro8FfMS_EmyyK2F7o",
+  SESSION_ID: "PASTE_SESSION_ID_HERE", //VOTTRE SESSION ID ICI
   botName: "Okarun Bot",
   ownerName: "♱ 𝓓𝓝𝓢 ♱ dev",
   ownerNumber: "201105950400", // Le numéro du propriétaire
